@@ -55,10 +55,3 @@ npm run tauri build
 - Recharts
 - Vitest y Testing Library
 
-## Privacidad
-
-Foco guarda los datos de productividad localmente en el dispositivo. No cargues información sensible en reportes públicos del repositorio. Las notificaciones dependen de los permisos del sistema operativo.
-
-## Estado del proyecto
-
-Foco está en desarrollo. Las funcionalidades y los requisitos de instalación pueden cambiar.
